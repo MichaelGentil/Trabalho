@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "885F8A60-3C71-4966-BBC6-5913BA8C013B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2853C7B-CDAB-466C-BD53-F67749D03690"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "imagem"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomMenu_Side/View/SideMenu.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1ADA8C56-8F5B-4991-ACD4-FA9DEE63E4D2"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "NomeUsu&#xe1;rio"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomMenu_Side/View/SideMenu.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF3A07A0-E971-4494-8DEC-73778CC51EED"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "CordeFundo"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomMenu_Side/View/SideMenu.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5CD5BFC-7218-4619-A5B7-569C462BE8F1"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "IconedoBotao"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomMenu_Side/View/SideMenu.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
